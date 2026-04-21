@@ -19,7 +19,7 @@
 
 **Ribbion** is a production-ready REST API backend for a Doubt/Q&A Forum where users can:
 
-- 📝 **Ask questions** with tags and rich text
+- 📝 **Ask questions** with tags and rich text.
 - 💬 **Answer questions** posted by others
 - ⬆️ **Upvote / Downvote** questions and answers — the best floats to the top
 - ✅ **Accept answers** — marks the question as solved and rewards the answerer
